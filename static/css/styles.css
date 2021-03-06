@@ -1,0 +1,35 @@
+.header {
+  text-align: center;
+  padding: 10px;
+  color: #edeef7;
+  font-style: italic;
+  background-color: #8f4068;
+}
+
+.form {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.input {
+  width: 300px;
+}
+
+.search {
+  margin-left: 20px;
+}
+
+img {
+  border-radius: 10px;
+  border: solid black;
+  margin-left: 3px;
+}
+
+.cardstyle{
+    margin-top: 10px;
+    background-color: #8f4068;
+    color:white;
+}
+p{
+  color: #8f4068;;
+}
